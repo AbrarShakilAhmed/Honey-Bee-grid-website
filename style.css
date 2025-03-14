@@ -157,4 +157,20 @@ main .blog {
   .services .serviced {
     grid-column: 2 / span 10;
   }
+  main .blog {
+    margin: 20px;
+    padding: 10px 20px;
+  }
+  main {
+    padding: 20px;
+  }
+  main .hero {
+    margin-top: 50px;
+  }
+  header .logo {
+    grid-column: span 12;
+  }
+  header nav {
+    grid-column: span 12;
+  }
 }
