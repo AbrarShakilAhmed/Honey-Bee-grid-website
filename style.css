@@ -74,12 +74,16 @@ main {
 }
 .hero .hero-content button {
   font-size: 18px;
-  padding: 10px 30px;
+  padding: 10px 40px;
   background-color: #3f3f3f;
   color: #fff;
   border: none;
   cursor: pointer;
   border-radius: 30px;
+  margin-top: 30px;
+}
+.hero .hero-content button:hover {
+  background-color: #525252;
 }
 .services {
   grid-column: span 12;
@@ -146,8 +150,7 @@ main .blog {
   padding: 20px;
   text-align: center;
 }
-button {
-}
+
 @media screen and (max-width: 960px) {
   .hero img {
     grid-column: 2 / span 10;
