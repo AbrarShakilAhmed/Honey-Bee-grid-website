@@ -146,6 +146,8 @@ main .blog {
   padding: 20px;
   text-align: center;
 }
+button {
+}
 @media screen and (max-width: 960px) {
   .hero img {
     grid-column: 2 / span 10;
