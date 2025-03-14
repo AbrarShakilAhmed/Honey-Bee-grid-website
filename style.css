@@ -41,8 +41,9 @@ nav ul li a {
 }
 main {
   background: #f4f4f4;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: auto;
+  padding: 60px;
 }
 .hero {
   grid-column: span 12;
@@ -120,7 +121,7 @@ main {
 }
 main .blog {
   grid-column: span 12;
-  margin-top: 100px;
+  margin: 100px;
   padding: 70px;
   background-color: #fff;
   border-radius: 10px;
@@ -144,7 +145,6 @@ main .blog {
   color: #fff;
   padding: 20px;
   text-align: center;
-  margin-top: 50px;
 }
 @media screen and (max-width: 960px) {
   .hero img {
