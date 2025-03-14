@@ -83,7 +83,7 @@ main {
   margin-top: 30px;
 }
 .hero .hero-content button:hover {
-  background-color: #525252;
+  background-color: #000000;
 }
 .services {
   grid-column: span 12;
