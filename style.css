@@ -178,5 +178,7 @@ main .blog {
   header nav {
     grid-column: span 12;
   }
+  .services .service-list {
+    grid-column: span 12;
+  }
 }
-.
